@@ -1,5 +1,5 @@
 import arcade
-import input
+import os from input
 
 
 greeting = ("Hello, I am your AI NPC! How may I help you...? ;):")
