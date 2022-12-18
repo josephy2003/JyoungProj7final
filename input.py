@@ -1,10 +1,19 @@
-
+import arcade
 import sys
 
 print (sys.getrecursionlimit())
 
-class Formula(self: vars, number, integer):
-    super().__init__(self=vars):
+
+
+v = VARIABLES
+n = NUMBERS
+i = INTEGER
+
+class Formula:
+    def __init__(self, v, n, i):
+    self.paramter
+
+def
     vars(P) == 100000
     vars(T) == 40
     vars(R) == .07
